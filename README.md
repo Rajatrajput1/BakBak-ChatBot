@@ -1,7 +1,7 @@
 # 🤖 BakBak Chatbot – Phase 1 (Rule-Based)
 
 **BakBak** is a fun, beginner-friendly, rule-based chatbot written in Python by **Rajat Rajput**.  
-This is **Phase 1** of a chatbot project that will later evolve.
+This is **Phase 1** of a chatbot project that will later evolve. 
 
 ---
 
